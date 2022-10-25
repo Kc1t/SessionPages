@@ -6,3 +6,11 @@ body{
     display: flex;
     justify-content: center;
 }
+
+form{
+    margin-top: 50%;
+}
+
+.field{
+    margin-bottom: 20px;
+}

@@ -6,21 +6,16 @@ $conn = mysqli_connect('localhost', 'root', '', 'db_school') or die ('Unable To 
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="public/conit/tailwind.css">
     <link rel="stylesheet" href="public/conit/style.css">
-    <title>Atv</title>
+    <title>Session</title>
 </head>
 <body>
-
-
-
-
-
 
 <?php
     if(isset($_POST['login'])){

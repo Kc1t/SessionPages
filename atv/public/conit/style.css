@@ -2,19 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 body{
-    display: flex;
-    justify-content: center;
-}
-
-form{
-    margin-top: 50%;
-}
-
-.field{
-    margin-bottom: 20px;
-}
-
-.eita{
-    display: flex;
+    background-color: #111827;
 }

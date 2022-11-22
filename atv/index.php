@@ -89,16 +89,3 @@ $conn = mysqli_connect('localhost', 'root', '', 'db_school') or die ('Unable To 
 </div>
 
 
-    <!-- <h2>Please Login</h2> -->
-    <!-- <br>
-
-    <div> 
-        <form action="index.php" method="post">
-            <input class="field" type="text" name="Username" placeholder="Username" required = ""><br>
-            <input class="field" type="password" name="Pass" placeholder="Password" required = ""><br>
-            <input class="field" type="submit" name="login" value="Login" >
-            </form>
-    </div> -->
-</body>
-</html>
-

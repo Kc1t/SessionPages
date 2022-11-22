@@ -87,5 +87,3 @@ $conn = mysqli_connect('localhost', 'root', '', 'db_school') or die ('Unable To 
         </div>
     </div>
 </div>
-
-

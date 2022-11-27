@@ -14,11 +14,6 @@ session_start();
 </head>
 <body>
 
-
-    <!-- Click Here to <a href="logout.php">Logout</a> -->
-
-    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
-
 <div class="min-w-screen min-h-screen bg-gray-900 flex items-center justify-center px-5 py-5">
     <div class="bg-indigo-600 text-white rounded shadow-xl py-5 px-5 w-full lg:w-10/12 xl:w-3/4" x-data="{welcomeMessageShow:true}" x-show="welcomeMessageShow" x-transition:enter="transition-all ease duration-500 transform" x-transition:enter-start="opacity-0 scale-110" x-transition:enter-end="opacity-100 scale-100" x-transition:leave="transition-all ease duration-500 transform" x-transition:leave-end="opacity-0 scale-90">
         <div class="flex flex-wrap -mx-3 items-center">
@@ -44,6 +39,6 @@ session_start();
     </div>
 </div>
 
-
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
 </body>
 </html>

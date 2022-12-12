@@ -1,2 +1,2 @@
 # SessionPages
-Login using Session, Tailwind / Alpine.Js (COMPLETED ✅)
+Login using Session, Tailwind / Alpine.Js 
